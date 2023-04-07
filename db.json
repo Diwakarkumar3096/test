@@ -1,4 +1,5 @@
-[{
+{
+ "data":[{
  "id":1,
  "name":"Diwakar kumar",
  "email":"kumar@gmail.com",
@@ -7,4 +8,4 @@
  "id":1,
  "name":"Diwakar ",
  "email":"diwakar@gmail.com",
-}]
+}]}
