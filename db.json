@@ -1,11 +1,14 @@
 {
- "data":[{
- "id":1,
- "name":"Diwakar kumar",
- "email":"kumar@gmail.com",
-},
-{
- "id":2,
- "name":"Diwakar ",
- "email":"diwakar@gmail.com",
-}]}
+    "data": [
+        {
+            "id": 1,
+            "name": "Diwakar kumar",
+            "email": "kumar@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Diwakar ",
+            "email": "diwakar@gmail.com"
+        }
+    ]
+}
