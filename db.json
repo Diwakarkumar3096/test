@@ -10,13 +10,13 @@
             "id": 2,
             "name": "Diwakar ",
             "email": "diwakar@gmail.com",
-            smart_Phone":9999
+            "smart_Phone":9999
         },
         {
             "id": 3,
             "name": "Diwa ",
             "email": "diwar@gmail.com",
-            smart_Phone":9999
+           " smart_Phone":9999
         }
     ]
 }
